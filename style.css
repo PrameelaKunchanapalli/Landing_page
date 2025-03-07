@@ -104,7 +104,7 @@ button{
     color: #1f2937;
 
 }
-.footer{
+.signup{
     height: 200px;
    background-color: white;
    display: flex;
@@ -127,7 +127,7 @@ button{
 button{
    border-radius: 10px; 
 }
-.ending{
+.footer{
     display: flex;
     justify-content: center;
     align-items: center;
